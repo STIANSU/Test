@@ -1,2 +1,2 @@
-# MuskCult
+# Gittest
 This is a test
